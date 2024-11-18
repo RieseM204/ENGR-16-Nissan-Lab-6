@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 colors = ["Green", "White", "Yellow"]
 
-m = 0.2
+m = 0.0
 
 def main():
     for color in colors:
